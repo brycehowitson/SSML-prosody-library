@@ -1,7 +1,7 @@
 # SSML-prosody-library
 ## A collection of pre-built speech synthesis settings used to convey emotion. 
 
-Pre created prosody settings (Volume, Pitch, Rate) matched to theatrical voice descriptors, including terms like these:
+Prosody "presets" (Volume, Pitch, Rate) matched to theatrical voice descriptors, including terms like these:
 
 - grumble
 - ambivalent
@@ -18,6 +18,8 @@ Pre created prosody settings (Volume, Pitch, Rate) matched to theatrical voice d
 - thoughtful
 - elated
 - threatening
+
+Here's a little background on the project and rational on [Medium](https://medium.com/@howitson/voice-ui-as-theatre-getting-excited-with-synthesized-voice-d0afbc8ede57)
 
 ---
 
