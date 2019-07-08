@@ -19,7 +19,7 @@ Prosody "presets" (Volume, Pitch, Rate) matched to theatrical voice descriptors,
 - elated
 - threatening
 
-Here's a little background on the project and rational on [Medium](https://medium.com/@howitson/voice-ui-as-theatre-getting-excited-with-synthesized-voice-d0afbc8ede57)
+Here's a little background on the project and rationale on [Medium](https://medium.com/@howitson/voice-ui-as-theatre-getting-excited-with-synthesized-voice-d0afbc8ede57)
 
 ---
 
