@@ -25,7 +25,7 @@ Here's a little background on the project and rationale on [Medium](https://medi
 
 ## Example of "Excited" Prosody
 ```
-<prosody rate="fast" pitch="high" volumn="loud">This voice is very excited!</prosody>
+<prosody rate="fast" pitch="high" volume="loud">This voice is very excited!</prosody>
 ```
 
 SSML can be tested using [IBM's interactive demo](https://text-to-speech-demo.ng.bluemix.net/)
